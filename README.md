@@ -10,7 +10,7 @@ Fiind un proiect in dezvoltare activa, momentan avem disponibil design-ul realiz
 
 ## Caracteristici
 - Implementare modulară în Verilog
-- Suport pentru operații aritmetice (adunare, scădere, multiplicare, etc.)
+- Suport pentru operații aritmetice (adunare, scădere, inmultire, impartire)
 - Testare utilizând testbenches în Verilog
 - Documentație
 
